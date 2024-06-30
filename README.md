@@ -6,3 +6,5 @@ This is the repository for my thesis paper "Caption-augmented Multimodal Classif
 - bert_model.ipynb and roberta_model.ipynb. The original models without captions are trained and evaluated in these notebooks.
 - bert_model_blip2.ipynb and roberta_model_blip2.ipynb. The captioned models are trained and evaluated in these notebooks.
 - manual_assessment.ipynb. This notebook contains details about the manual assessment of caption quality as described in the Discussion section of the paper.
+
+This project uses the Facebook Hateful Memes dataset. These can not be provided due to licensing by Facebook, they are able to be downloaded from https://hatefulmemeschallenge.com/.
