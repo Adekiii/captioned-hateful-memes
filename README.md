@@ -1,6 +1,6 @@
 # Caption-augmented Multimodal Classification of Hateful Memes
 
-This is the repository for my thesis paper "Caption-augmented Multimodal Classification of Hateful Memes". The processes are divided into separate notebooks as described below:
+This is the repository for my thesis paper ["Caption-augmented Multimodal Classification of Hateful Memes"](Thesis.pdf). The processes are divided into separate notebooks as described below:
 
 - blip_augmentation.ipynb. This notebook shows the process of augmenting the Hateful Memes dataset with a BLIP2 model.
 - feature_extraction.ipynb. In this notebook, CLIP, BERT are used as means to extract features from the data.
